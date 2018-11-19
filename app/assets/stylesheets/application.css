@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+.list-inline-item {
+  font-size:30px;
+  background-color:#4F97D6;
+  color:white;
+  width:50px;
+  height:50px;
+}
